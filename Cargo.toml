@@ -1,0 +1,15 @@
+[package]
+name = "awx"
+version = "0.1.0"
+authors = ["shaipe <shaipe@sina.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# awc = "0.2.4"
+# futures = "0.1.29"
+# actix-rt = "0.2.5"
+# hyper = "0.12.34"
+# tokio-core = "0.1.17"
+curl = "0.4.23"
